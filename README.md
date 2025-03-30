@@ -39,7 +39,7 @@
 
 <!-- ### git clone https://github.com/yourusername/JFMDevfolio.git -->
 
-### Navigate to the project directory:
+## Navigate to the project directory:
 
 ### cd JFMDevfolio
 
