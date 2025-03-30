@@ -27,10 +27,15 @@
 ### Styling Frameworks: Custom CSS for a structured layout
 
 ### Media & Graphics: Images for profile, projects, and achievements
+### Flexbox - for layout and alignment
+### Media Queries - for responsiveness in different sizes of screens
 
+### CSS Variables - for styling
+### Animations & Transitions - for smooth effects like hover
+<!-- 
 ## Installation
 
-## Clone the repository:
+## Clone the repository: -->
 
 <!-- ### git clone https://github.com/yourusername/JFMDevfolio.git -->
 
@@ -49,10 +54,6 @@
 ## Contributing
 
 ### Contributions are welcome! If you'd like to improve the website, fork the repository and submit a pull request with your changes.
-
-## License
-
-### This project is licensed under the MIT License.
 
 ## Contact
 
